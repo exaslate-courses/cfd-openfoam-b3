@@ -3,4 +3,4 @@
     * Follow instructions in `installation_steps.pdf`
 
 * Discussion forum:
-    * https://github.com/exaslate-courses/cfd-openfoam-b2/discussions
+    * https://github.com/exaslate-courses/cfd-openfoam-b3/discussions
